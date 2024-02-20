@@ -1,5 +1,5 @@
 
-#include "tests/all_test.hpp"
+#include "./all_test.hpp"
 #include <cstdio>
 
 int run_test() {

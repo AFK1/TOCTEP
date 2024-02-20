@@ -8,3 +8,4 @@ typedef SDL_Color Color;
 
 void wait_ns(Uint64 ns);
 void wait(Uint32 s);
+#define when(a) while(a){}

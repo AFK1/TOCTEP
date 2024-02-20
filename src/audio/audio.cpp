@@ -1,5 +1,5 @@
 
-#include "src/audio/audio.hpp"
+#include "./audio.hpp"
 #include <SDL3_mixer/SDL_mixer.h>
 
 void audio_init() {

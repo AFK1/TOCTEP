@@ -1,5 +1,5 @@
 # TOCTEP
-## or toster in the transliteration
+#### or toster in the transliteration
 
 ### my small spooky source library engine
 ### it uses sdl for rendering, sounds, networking and other non-cross-platform stuff

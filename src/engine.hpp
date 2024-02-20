@@ -10,3 +10,5 @@ enum Engine_init_flags {
 
 
 void engine_init(Engine_init_flags flags);
+void engine_deinit();
+void engine_thread();

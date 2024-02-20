@@ -1,5 +1,5 @@
 
-#include "src/render/render.hpp"
+#include "./render.hpp"
 #include <SDL3/SDL_init.h>
 #include <SDL3_image/SDL_image.h>
 #include <SDL3_ttf/SDL_ttf.h>

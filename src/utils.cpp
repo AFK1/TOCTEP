@@ -1,6 +1,6 @@
 
 
-#include "src/utils.hpp"
+#include "./utils.hpp"
 
 void wait_ns(Uint64 ns) {
   SDL_DelayNS(ns);

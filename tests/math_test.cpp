@@ -1,6 +1,6 @@
 
-#include "src/math/vector.hpp"
-#include "tests/all_test.hpp"
+#include "../src/math/vector.hpp"
+#include "./all_test.hpp"
 #include <cstdio>
 
 int math_test() {

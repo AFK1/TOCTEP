@@ -1,5 +1,5 @@
 
-#include "src/network/network.hpp"
+#include "./network.hpp"
 #include <SDL3_net/SDL_net.h>
 
 void network_init() {
